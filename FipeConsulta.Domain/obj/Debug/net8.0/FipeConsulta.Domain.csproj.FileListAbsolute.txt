@@ -1,0 +1,14 @@
+C:\workspace\FipeConsulta\FipeConsulta.Domain\bin\Debug\net8.0\FipeConsulta.Domain.deps.json
+C:\workspace\FipeConsulta\FipeConsulta.Domain\bin\Debug\net8.0\FipeConsulta.Domain.runtimeconfig.json
+C:\workspace\FipeConsulta\FipeConsulta.Domain\bin\Debug\net8.0\FipeConsulta.Domain.dll
+C:\workspace\FipeConsulta\FipeConsulta.Domain\bin\Debug\net8.0\FipeConsulta.Domain.pdb
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.csproj.AssemblyReference.cache
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.AssemblyInfoInputs.cache
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.AssemblyInfo.cs
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.dll
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\refint\FipeConsulta.Domain.dll
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.pdb
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\FipeConsulta.Domain.genruntimeconfig.cache
+C:\workspace\FipeConsulta\FipeConsulta.Domain\obj\Debug\net8.0\ref\FipeConsulta.Domain.dll
